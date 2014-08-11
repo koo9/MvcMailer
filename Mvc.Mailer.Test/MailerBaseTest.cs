@@ -9,6 +9,8 @@ using System.IO;
 using System.Web.Routing;
 
 namespace Mvc.Mailer.Test {
+
+
     [TestFixture]
     public class MailerBaseTest {
         private MailerBase _mailerBase;
